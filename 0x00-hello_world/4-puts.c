@@ -1,14 +1,11 @@
-vim 4-puts.c
-
-#include <stdio.h>
-
+#include <studios.h>
 /**
- * main - Print
- *
- * Return: Always 0 (Successful)
+ *main - main block
+ *Return:0
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	return(0);
 }
+
