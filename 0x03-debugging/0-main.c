@@ -7,9 +7,11 @@
 
 int main(void)
 {
-int i;
+	int i;
 
-1 - 0;
-positive_or_negative(i);
+	i = 0;
+	postivie_or_negative(i);
 
-return (0);
+	return (0);
+}
+
